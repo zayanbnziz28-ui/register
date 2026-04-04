@@ -14,5 +14,10 @@
       "vc-domain-verify=zayan.is-a.dev,522a263312cb5f04213c"
     ]
   },
-  "proxied": true
+  "proxied": true,
+  "subdomain": {
+    "_vercel": {
+      "TXT": "vc-domain-verify=zayan.is-a.dev,522a263312cb5f04213c"
+    }
+  }
 }
